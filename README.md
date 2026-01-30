@@ -2,4 +2,7 @@
 
 runs arch linux on github codespaces.
 
-it runs with systemd, the user "user" with the password "root", but you can fork the repo (or rebuild it) to change to whatever you want.
+runs with the user "user", password "root". 
+you can rebuild or fork the repo to change whatever you want.
+
+for systemd integration, see: https://github.com/nelwre/archoncodespaces/tree/systemd
